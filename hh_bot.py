@@ -88,6 +88,7 @@ def run_once(seen, first_run):
             items = fetch(query)
         except Exception as e:
             print(f"[{name}] hh xato:", e)
+            send(f"[{name}] hh xato: {e}")
             continue
         for v in items:
             vid = v["id"]
