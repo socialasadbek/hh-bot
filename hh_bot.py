@@ -25,6 +25,7 @@ DIRECTIONS = {
     "marketing": "SMM OR маркетолог OR marketing OR таргетолог OR SEO OR контент OR копирайтер",
     "bank": "банк OR кассир OR кредит OR операционист OR бухгалтер OR финансист",
     "it": "программист OR developer OR разработчик OR QA OR тестировщик OR дизайнер OR аналитик",
+    "talim": "преподаватель OR учитель OR репетитор OR тренер OR методист OR воспитатель OR ментор OR teacher OR tutor OR trainer OR IELTS OR куратор",
 }
 # ========================
 
